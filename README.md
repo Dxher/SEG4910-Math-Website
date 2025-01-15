@@ -1,4 +1,4 @@
-# SEG4910-Math-Website
+# Student Info
 
 Name: Tony Chamoun, Student Number: 300238262, tcham067@uottawa.ca
 
@@ -7,13 +7,20 @@ Name: Anthony Daher, Student Number: 300233710, adahe015@uottawa.ca
 Name: Alex Maalouf, Student Number: 300237277, amaal082@uottawa.ca
 
 
-Customer Information
+# Customer Information
 
 Name: Johanne Seguin
 
 Background: 7th grade Math teacher at Collège catholique Samuel-Genest
 
 Contact Information: Email: seguijoh@gmail.com
+
+
+# Group names
+
+Brightspace: We are group 13
+
+Academic Team Management: We are group 14
 
 # Math Learning Platform
 
