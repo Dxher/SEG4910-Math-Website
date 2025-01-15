@@ -1,10 +1,10 @@
 # SEG4910-Math-Website
 
-Name: Tony Chamoun, Student Number: 300238262, Role: Lead Developer
+Name: Tony Chamoun, Student Number: 300238262, tcham067@uottawa.ca
 
-Name: Anthony Daher, Student Number: 300233710, Role: Project Manager
+Name: Anthony Daher, Student Number: 300233710, adahe015@uottawa.ca
 
-Name: Alex Maalouf, Student Number: 300237277, Role: QA Manager
+Name: Alex Maalouf, Student Number: 300237277, amaal082@uottawa.ca
 
 
 Customer Information
