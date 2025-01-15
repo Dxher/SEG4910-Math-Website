@@ -1,10 +1,10 @@
 # SEG4910-Math-Website
 
-Name: Tony Chamoun, Student Number: 300238262, Co-op, Role: Lead Developer
+Name: Tony Chamoun, Student Number: 300238262, Role: Lead Developer
 
-Name: Anthony Daher, Student Number: 300233710, Co-op, Role: Project Manager
+Name: Anthony Daher, Student Number: 300233710, Role: Project Manager
 
-Name: Alex Maalouf, Student Number: 300237277, Co-op, Role: QA Manager
+Name: Alex Maalouf, Student Number: 300237277, Role: QA Manager
 
 
 Customer Information
