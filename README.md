@@ -1,10 +1,9 @@
 # Student Info
 
-Name: Tony Chamoun, Student Number: 300238262, tcham067@uottawa.ca
-
+Name: Tony Chamoun, Student Number: 300238262, 
 Name: Anthony Daher, Student Number: 300233710, adahe015@uottawa.ca
 
-Name: Alex Maalouf, Student Number: 300237277, amaal082@uottawa.ca
+Name: Alex Maalouf, Student Number: 300237277, 
 
 
 # Customer Information
