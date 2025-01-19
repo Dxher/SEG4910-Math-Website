@@ -80,11 +80,11 @@ Stress testing to ensure scalability.
 
 # Schedule and Deliverables
 Development Timeline:
-Week 1-2: Requirement gathering and system design.
-Week 3-6: Backend development.
-Week 7-10: Frontend development and UX optimization.
-Week 11-12: Testing, debugging, and final refinements.
-Week 13: Deployment and presentation.
+Week 1-2: Requirement gathering and system design.  
+Week 3-6: Backend development.  
+Week 7-10: Frontend development and UX optimization.  
+Week 11-12: Testing, debugging, and final refinements.  
+Week 13: Deployment and presentation.  
 * The timeline will most likely be altered as we begin working on the project
 
 [Online Gantt 20250114.pdf](https://github.com/user-attachments/files/18469706/Online.Gantt.20250114.pdf)
