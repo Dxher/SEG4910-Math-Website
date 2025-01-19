@@ -15,6 +15,16 @@ Background: 7th grade Math teacher at Collège catholique Samuel-Genest
 
 Contact Information: Email: seguijoh@gmail.com
 
+# Group names
+
+Brightspace: We are group 13
+
+Academic Team Management: We are group 14
+
+# Math Learning Platform
+
+We are embarking on an exciting journey to revolutionize math education through a unique, interactive platform. Our goal is to create a versatile, interactive platform that not only simplifies the teaching process but also embraces new pedagogical approaches for today's learners. This platform will feature engaging math quests aligned with the provincial curriculum for students and provide a series of innovative online courses for teachers. These courses are designed to equip educators with modern teaching strategies and effective ways to utilize our platform, ensuring they can meet the evolving needs of their students in this digital age.
+
 # Problem Statement
 
 Traditional math education often struggles to engage students and meet the needs of modern learners. Teachers also face challenges in adopting new technologies and teaching strategies. This project aims to bridge these gaps by creating an interactive, gamified educational platform to enhance math learning.
@@ -90,12 +100,4 @@ Week 13: Deployment and presentation.
 ![Online Gantt 20250114-1](https://github.com/user-attachments/assets/b06bc242-3e5a-44df-98e6-8d7cc43c5794)
 
 
-# Group names
 
-Brightspace: We are group 13
-
-Academic Team Management: We are group 14
-
-# Math Learning Platform
-
-We are embarking on an exciting journey to revolutionize math education through a unique, interactive platform. Our goal is to create a versatile, interactive platform that not only simplifies the teaching process but also embraces new pedagogical approaches for today's learners. This platform will feature engaging math quests aligned with the provincial curriculum for students and provide a series of innovative online courses for teachers. These courses are designed to equip educators with modern teaching strategies and effective ways to utilize our platform, ensuring they can meet the evolving needs of their students in this digital age.
