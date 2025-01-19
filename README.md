@@ -87,7 +87,8 @@ Week 11-12: Testing, debugging, and final refinements.
 Week 13: Deployment and presentation.  
 * The timeline will most likely be altered as we begin working on the project
 
-[Online Gantt 20250114.pdf](https://github.com/user-attachments/files/18469706/Online.Gantt.20250114.pdf)
+![Online Gantt 20250114-1](https://github.com/user-attachments/assets/b06bc242-3e5a-44df-98e6-8d7cc43c5794)
+
 
 # Group names
 
